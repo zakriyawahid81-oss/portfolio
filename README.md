@@ -1,3 +1,3 @@
 zakriyawahid-demo
 🛠️ Skills: Python, Flask, MySQL, HTML, CSS, JavaScript
-Author - zaki
+Author - Zaki

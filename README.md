@@ -1,2 +1,3 @@
-# portfolio
-My personal portfolio website built with HTML, CSS and JavaScript.
+zakriyawahid-demo
+🛠️ Skills: Python, Flask, MySQL, HTML, CSS, JavaScript
+Author - zaki
